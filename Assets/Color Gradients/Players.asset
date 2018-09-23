@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2108210716, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+  m_Name: Players
+  m_EditorClassIdentifier: 
+  topLeft: {r: 0.9528302, g: 0.2725491, b: 0.049439307, a: 1}
+  topRight: {r: 1, g: 0.40330318, b: 0.062745094, a: 1}
+  bottomLeft: {r: 1, g: 0.63689905, b: 0.41037738, a: 1}
+  bottomRight: {r: 1, g: 0.4460758, b: 0.3443396, a: 1}
